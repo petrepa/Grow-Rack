@@ -22,7 +22,9 @@ Built a grow rack out of a shelving unit with automation capabilities
 ![Wire Free Mount](https://github.com/petrepa/Grow-Rack/blob/main/Images/wire_free_mount.png)
 
 ### Current setup
-Currently using a spare [Shelly RGBW2](https://shelly.cloud/products/shelly-rgbw2-smart-home-automation-led-controller/) for controlling the LED strips
+Currently using a spare [Shelly RGBW2](https://shelly.cloud/products/shelly-rgbw2-smart-home-automation-led-controller/) for controlling the LED strips, accompanied of a Sonoff Zigbee multi sensor.
+
+![Home Assistant GUI](https://github.com/petrepa/Grow-Rack/blob/main/Images/shelly_grow_rack_gui.png)
 
 | Channel | Connection                 |
 |---------|----------------------------|
